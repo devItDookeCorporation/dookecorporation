@@ -6,21 +6,21 @@
     </div>
     <marquee direction="left" hspace="80px" class="defilement bg2">
       <?php
-        $directory = "images/logo-clients";
-        $images = glob($directory . "/*.jpg") + glob($directory . "/*.png");
-      
-        $cpt = 0;
-        foreach($images as $image){
-          echo("<img src='$image' alt='Dooke References'> ");
-        }
-        ?>
+      $directory = "images/logo-clients";
+      $images = glob($directory . "/*.jpg") + glob($directory . "/*.png");
+
+      $cpt = 0;
+      foreach ($images as $image) {
+        echo ("<img src='$image' alt='Dooke References'> ");
+      }
+      ?>
     </marquee>
   </div>
 </div>
 <footer class="footer">
-<div class="container bg-transi">
-  <hr class="hr-transi">
-</div>
+  <div class="container bg-transi">
+    <hr class="hr-transi">
+  </div>
   <div class="container-fluid">
     <div class="row copyright">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 center">
@@ -39,4 +39,5 @@
 <!-- footer -->
 
 </body>
+
 </html>

@@ -1,23 +1,20 @@
-﻿<?php include'eng-header.php';?>
+﻿<?php include 'eng-header.php'; ?>
 
 <!-- Menu Starts -->
 <div class="container-fluid menu">
   <div class="header">
     <ul id="menu-deroulant">
       <a href="http://dookeworks.com/"><img src="images/logo.gif" alt="Realestate" class="img1"></a>
-          <li><a href="index.php">Accueil</a></li>
-          <li><a href="eng-presentation.php">Présentation</a></li>
-          <li class="active"><a href="eng-groupe.php">Le Groupe</a></li>
-          <li><a href="#">Nos activités<span class="caret"></span></a>
-          <ul class="sous-menu">
-            <li><a href="eng-dookeworks.php">Dooke Works </a></li>
-            <li><a href="eng-dookeconsulting.php">Dooke Consulting</a></li>
-            <li><a href="eng-dookegreen.php">Dooke Green</a></li>
-            <li><a href="eng-dookelogistics.php">Dooke Logistics</a></li>
-            <li><a href="eng-dookelive.php">Dooke Live</a></li>
-          </ul>
-          <li><a href="eng-nos-references.php">Nos références</a></li>
-          <li><a href="eng-contact.php">Contact</a></li>
+      <li><a href="index.php">Accueil</a></li>
+      <li><a href="eng-presentation.php">Présentation</a></li>
+      <li class="active"><a href="eng-groupe.php">Le Groupe</a></li>
+      <li><a href="#">Nos activités<span class="caret"></span></a>
+        <ul class="sous-menu">
+          <li><a href="eng-dookeworks.php">Dooke Works </a></li>
+          <li><a href="eng-dookeconsulting.php">Dooke Consulting</a></li>
+        </ul>
+      <li><a href="eng-nos-references.php">Nos références</a></li>
+      <li><a href="eng-contact.php">Contact</a></li>
     </ul>
   </div>
 </div>
@@ -25,14 +22,14 @@
 
 <!-- banner -->
 <div class="inside-banner">
-  <div class="container"> 
+  <div class="container">
     <span class="pull-left"><a href="#">Accueil</a> / Le groupe</span>
   </div>
 </div>
 <!-- banner -->
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+  <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
@@ -53,15 +50,12 @@
       <ul>
         <li><a href="eng-dookeworks.php">Dooke Works </a></li>
         <li><a href="eng-dookeconsulting.php">Dooke Consulting</a></li>
-        <li><a href="eng-dookegreen.php">Dooke Green</a></li>
-        <li><a href="eng-dookelogistics.php">Dooke Logistics</a></li>
-        <li><a href="eng-dookelive.php">Dooke Live</a></li>
       </ul>
     </div>
   </div>
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+  <hr class="hr-transi">
 </div>
-<?php include'eng-footer.php';?>
+<?php include 'eng-footer.php'; ?>
