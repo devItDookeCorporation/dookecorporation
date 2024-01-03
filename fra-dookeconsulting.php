@@ -1,52 +1,49 @@
-﻿<?php include'fra-header.php';?>
+﻿<?php include 'fra-header.php'; ?>
 
 <!-- Menu Starts -->
 <div class="container-fluid menu">
-  <div class="header">
-    <ul id="menu-deroulant">
-      <a href="http://dookeworks.com/"><img src="images/logo.gif" alt="Realestate" class="img1"></a>
-          <li><a href="index.php">Accueil</a></li>
-          <li><a href="fra-presentation.php">Présentation</a></li>
-          <li><a href="fra-groupe.php">Le Groupe</a></li>
-          <li class="active"><a href="#">Nos activités<span class="caret"></span></a>
-          <ul class="sous-menu">
-            <li><a href="fra-dookeworks.php">Dooke Works </a></li>
-            <li><a href="fra-dookeconsulting.php">Dooke Consulting</a></li>
-            <li><a href="fra-dookegreen.php">Dooke Green</a></li>
-            <li><a href="fra-dookelogistics.php">Dooke Logistics</a></li>
-            <li><a href="fra-dookelive.php">Dooke Live</a></li>
-          </ul>
-          <li><a href="fra-nos-references.php">Nos références</a></li>
-          <li><a href="fra-contact.php">Contact</a></li>
-    </ul>
-  </div>
+    <div class="header">
+        <ul id="menu-deroulant">
+            <a href="http://dookeworks.com/"><img src="images/logo.gif" alt="Realestate" class="img1"></a>
+            <li><a href="index.php">Accueil</a></li>
+            <li><a href="fra-presentation.php">Présentation</a></li>
+            <li><a href="fra-groupe.php">Le Groupe</a></li>
+            <li class="active"><a href="#">Nos activités<span class="caret"></span></a>
+                <ul class="sous-menu">
+                    <li><a href="fra-dookeworks.php">Dooke Works </a></li>
+                    <li><a href="fra-dookeconsulting.php">Dooke Consulting</a></li>
+                </ul>
+            <li><a href="fra-nos-references.php">Nos références</a></li>
+            <li><a href="fra-contact.php">Contact</a></li>
+        </ul>
+    </div>
 </div>
 <!-- #Menu Ends -->
 
 <!-- banner -->
 <div class="inside-banner">
-  <div class="container"> 
-    <span class="pull-left"><a href="#">Accueil</a> / Nos Activités / Dooke Consulting</span>
-  </div>
+    <div class="container">
+        <span class="pull-left"><a href="#">Accueil</a> / Nos Activités / Dooke Consulting</span>
+    </div>
 </div>
 <!-- banner -->
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
-  <div class="row">
-    <h3 class="center">Dooke Consutling</h3>
-    <hr class="hr1">
-    <p class="center">Dans cette phase de son développement, La division DOOKE Consulting est essentiellement orientée vers l’ingénierie du numérique, la formation et la recherche.</p>
-    <p class="center">Dans un contexte où le continent africain aspire de plus en plus à monter dans le train de la révolution numérique et informatique, le passage brutal de l’analogie au digital exige des compétences précises, ainsi que des partenariats de plus en plus stratégiques.</p>
-    <p class="center">En plus de ses équipes d’ingénieurs, Dooke Consulting compte aussi s’appuyer sur l’immense réseau constitué d’une part de structures de certification, et d’autre part, de fournisseurs d’équipements de dernière génération.</p>
-  </div>
+    <div class="row">
+        <h3 class="center">Dooke Consutling</h3>
+        <hr class="hr1">
+        <p class="center">Dans cette phase de son développement, La division DOOKE Consulting est essentiellement orientée vers l’ingénierie du numérique, la formation et la recherche.</p>
+        <p class="center">Dans un contexte où le continent africain aspire de plus en plus à monter dans le train de la révolution numérique et informatique, le passage brutal de l’analogie au digital exige des compétences précises, ainsi que des partenariats de plus en plus stratégiques.</p>
+        <p class="center">En plus de ses équipes d’ingénieurs, Dooke Consulting compte aussi s’appuyer sur l’immense réseau constitué d’une part de structures de certification, et d’autre part, de fournisseurs d’équipements de dernière génération.</p>
+    </div>
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
@@ -73,7 +70,7 @@
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
@@ -94,13 +91,13 @@
                 <li>Hébergement Web</li>
                 <li>SEO et Référencement Web</li>
                 <li>Intégration de CMS</li>
-            </ul>        
+            </ul>
         </div>
     </div>
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
@@ -120,13 +117,13 @@
                 <li>Intégration des Web Services</li>
                 <li>Migration Technologique</li>
                 <li>Refactoring Technique</li>
-            </ul>        
+            </ul>
         </div>
     </div>
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
@@ -147,12 +144,12 @@
                 <li>l'optimisation des processus métiers</li>
                 <li>la documentation logicielle</li>
                 <li>le transfert de compétences aux équipes</li>
-            </ul>        
+            </ul>
         </div>
     </div>
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
-<?php include'fra-footer.php';?>
+<?php include 'fra-footer.php'; ?>

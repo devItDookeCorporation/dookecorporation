@@ -1,50 +1,47 @@
-﻿<?php include'eng-header.php';?>
+﻿<?php include 'eng-header.php'; ?>
 
 <!-- Menu Starts -->
 <div class="container-fluid menu">
-  <div class="header">
-    <ul id="menu-deroulant">
-      <a href="http://dookeworks.com/"><img src="images/logo.gif" alt="Realestate" class="img1"></a>
-          <li><a href="index.php">Accueil</a></li>
-          <li><a href="eng-presentation.php">Présentation</a></li>
-          <li><a href="eng-groupe.php">Le Groupe</a></li>
-          <li class="active"><a href="#">Nos activités<span class="caret"></span></a>
-          <ul class="sous-menu">
-            <li><a href="eng-dookeworks.php">Dooke Works </a></li>
-            <li><a href="eng-dookeconsulting.php">Dooke Consulting</a></li>
-            <li><a href="eng-dookegreen.php">Dooke Green</a></li>
-            <li><a href="eng-dookelogistics.php">Dooke Logistics</a></li>
-            <li><a href="eng-dookelive.php">Dooke Live</a></li>
-          </ul>
-          <li><a href="eng-nos-references.php">Nos références</a></li>
-          <li><a href="eng-contact.php">Contact</a></li>
-    </ul>
-  </div>
+    <div class="header">
+        <ul id="menu-deroulant">
+            <a href="http://dookeworks.com/"><img src="images/logo.gif" alt="Realestate" class="img1"></a>
+            <li><a href="index.php">Accueil</a></li>
+            <li><a href="eng-presentation.php">Présentation</a></li>
+            <li><a href="eng-groupe.php">Le Groupe</a></li>
+            <li class="active"><a href="#">Nos activités<span class="caret"></span></a>
+                <ul class="sous-menu">
+                    <li><a href="eng-dookeworks.php">Dooke Works </a></li>
+                    <li><a href="eng-dookeconsulting.php">Dooke Consulting</a></li>
+                </ul>
+            <li><a href="eng-nos-references.php">Nos références</a></li>
+            <li><a href="eng-contact.php">Contact</a></li>
+        </ul>
+    </div>
 </div>
 <!-- #Menu Ends -->
 
 <!-- banner -->
 <div class="inside-banner">
-  <div class="container"> 
-    <span class="pull-left"><a href="#">Accueil</a> / Nos Activités / Dooke Works</span>
-  </div>
+    <div class="container">
+        <span class="pull-left"><a href="#">Accueil</a> / Nos Activités / Dooke Works</span>
+    </div>
 </div>
 <!-- banner -->
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
-  <div class="row">
-    <h3 class="center">Dooke Works</h3>
-    <hr class="hr1">
-    <p class="center">DOOKE WORKS représente la division Travaux du Groupe. Ces travaux sont repartis en trois départements autonomes :</p>
-  </div>
+    <div class="row">
+        <h3 class="center">Dooke Works</h3>
+        <hr class="hr1">
+        <p class="center">DOOKE WORKS représente la division Travaux du Groupe. Ces travaux sont repartis en trois départements autonomes :</p>
+    </div>
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
@@ -65,7 +62,7 @@
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
@@ -85,7 +82,7 @@
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
 
 <div class="container bg1">
@@ -104,6 +101,6 @@
 </div>
 
 <div class="container bg-transi">
-<hr class="hr-transi">
+    <hr class="hr-transi">
 </div>
-<?php include'eng-footer.php';?>
+<?php include 'eng-footer.php'; ?>
