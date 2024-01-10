@@ -14,6 +14,7 @@
           <li><a href="eng-dookeconsulting.php">Dooke Consulting</a></li>
         </ul>
       <li><a href="eng-nos-references.php">Nos références</a></li>
+      <li><a href="fr-galeries.php">Galerie</a></li>
       <li><a href="eng-contact.php">Contact</a></li>
     </ul>
   </div>

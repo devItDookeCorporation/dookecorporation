@@ -14,6 +14,7 @@
           <li><a href="fra-dookeconsulting.php">Dooke Consulting</a></li>
         </ul>
       <li><a href="fra-nos-references.php">Nos références</a></li>
+      <li><a href="fr-galeries.php">Galerie</a></li>
       <li class="active"><a href="fra-contact.php">Contact</a></li>
     </ul>
   </div>
@@ -198,8 +199,8 @@
         <hr class="hr2">
         <h5> TELEPHONE </h5>
         <p>
-          <a href="tel:23521361036">(+235) 21 36 10 36</a>
-          <br><a href="tel:23521361037">(+235) 21 36 10 37</a>
+          <a href="tel:22521361036">(+225) 21 36 10 36</a>
+          <br><a href="tel:22521361037">(+225) 21 36 10 37</a>
         </p>
       </div>
     </div>

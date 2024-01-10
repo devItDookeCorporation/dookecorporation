@@ -14,6 +14,7 @@
           <li><a href="fra-dookeconsulting.php">Dooke Consulting</a></li>
         </ul>
       <li class="active"><a href="fra-nos-references.php">Nos références</a></li>
+      <li><a href="fr-galeries.php">Galerie</a></li>
       <li><a href="fra-contact.php">Contact</a></li>
     </ul>
   </div>
